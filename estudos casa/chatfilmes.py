@@ -1,7 +1,7 @@
 import requests
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
-api_key ='8d90b1cc294cc2c83d72439b80645cde'
+api_key =''
 analyzer= SentimentIntensityAnalyzer()
 
 def suggest_movies():
@@ -30,3 +30,4 @@ def suggest_movies():
 
 
 suggest_movies()
+
