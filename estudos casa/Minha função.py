@@ -4,7 +4,7 @@ def minhafunc(x, y):
     fim = max(x, y)
     
     impares = []
-    pares = []
+    
     
     for num in range(inicio, fim + 1):
         if num % 2 == 0:
@@ -12,4 +12,4 @@ def minhafunc(x, y):
         else:
             impares.append(num)
     
-    return impares, pares
+    return impares
