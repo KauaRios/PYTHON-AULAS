@@ -8,7 +8,7 @@ def minhafunc(x, y):
     
     for num in range(inicio, fim + 1):
         if num % 2 == 0:
-            pares.append(num)
+            pass
         else:
             impares.append(num)
     
