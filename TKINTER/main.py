@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
-from tokenize import String
+
 
 
 class App(tk.Frame):
@@ -25,8 +25,6 @@ class App(tk.Frame):
 
 
 root = tk.Tk()
-root.title("Meu Aplicativo Que Faz Nada")
-root.maxsize(1000, 400)
 
 app = App(master=root)
 app.mainloop()
