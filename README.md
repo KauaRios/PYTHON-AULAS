@@ -1,0 +1,38 @@
+# 🐍 Aulas de Python - Faculdade de Ciência da Computação
+
+Este repositório contém os códigos e materiais das aulas de **Python** que estou aprendendo na faculdade de **Ciência da Computação**.  
+O objetivo é registrar meus estudos, praticar a linguagem e manter tudo organizado para consulta futura.
+
+---
+
+## 📚 Conteúdo
+
+Os arquivos estão organizados por aula.
+
+
+   Temas que serão Abordados;
+- Introdução ao Python
+- Variáveis e Tipos de Dados
+- Operadores e Expressões
+- Condicionais (`if`, `else`, `elif`)
+- Laços de repetição (`for`, `while`)
+- Funções
+- Listas, Tuplas e Dicionários
+- Tratamento de Erros
+- Programação Orientada a Objetos (POO)
+- Projetos simples em Python
+
+---
+
+## 🛠 Como executar os códigos
+
+1. Tenha o **Python 3** instalado na sua máquina.
+2. (Opcional) Crie um ambiente virtual com:
+
+```bash
+python -m venv venv
+venv\Scripts\activate  # Windows
+# ou
+source venv/bin/activate  # Linux/macOS
+
+
